@@ -1,5 +1,46 @@
 # 💫 About Me:
-🌌 I’m currently working on:A multi-vendor e-commerce website with integrated payment gateway using the PERN stack.<br><br>🤝 I’m looking to collaborate on:\<br>Web apps, open-source full-stack projects, or anything that challenges my problem-solving skills.<br><br>🙋 I’m looking for help with:\<br>Improving my React performance optimizations and best practices for scalable backend architecture.<br><br>🌱 I’m currently learning:\<br>Advanced React, authentication & authorization, Docker, and cloud deployment with GCP & Azure.<br><br>💬 Ask me about:\<br>Backend development, Express.js, PostgreSQL, MongoDB, cloud platforms, and DSA in Java/C++.<br><br>⚡ Fun fact:\<br>I once built a working Akinator clone as a college project using just JavaScript logic!<br>
+## 👋 Hello World, I'm Vishesh Rajput!
+
+I'm a passionate **Tech Geek** graduating in **Btech IT** who loves diving deep into technologies that solve real-world problems and create exciting new possibilities. I enjoy exploring trends, staying self-taught, and challenging myself to solve problems through creative and efficient solutions.
+
+---
+
+### 👨‍💻 Tech Stack & Academics
+
+- 💻 Proficient in the **PERN Stack** (PostgreSQL, Express.js, React, Node.js)
+- 🧠 Strong grasp on **Data Structures and Algorithms** using **C++**
+- ⚙️ Experienced in building **RESTful APIs** and full-stack web applications
+- 🏆 Qualified from  college in the **Smart India Hackathon (SIH)** as part of Team **Techyogis**
+
+---
+
+### 📚 Learning Ethos
+
+- Always exploring new technologies and sharpening problem-solving skills
+- Enjoy reading, self-learning, and picking up skills that have real-world application
+- Believe in consistent learning over time rather than overnight mastery
+
+---
+
+### 🤝 Social & Personal Vibes
+
+- Love meeting new people and learning from real-world interactions
+- Known to be **optimistic**, **adaptable (as water 🌊)**, and a reliable **team player**
+- Proven these traits over **4 years of engineering** in **Information Technology**
+
+---
+
+### 📌 Hobbies & Interests
+
+- 📖 Reading books & journaling  
+- 🏀 Playing basketball  
+- 🌍 Being adventurous and exploring new places
+
+---
+
+> *“Stay curious. Stay humble. Stay hungry.”*
+
+
 
 
 ## 🌐 Socials:
